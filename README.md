@@ -1,2 +1,1 @@
-# A Personalized Biopsychosocial Risk Score for Predicting Future Disease Burden
-Code used in "A Personalized Biopsychosocial Risk Score for Predicting Future Disease Burden" paper
+Code used in "A Personalized Biopsychosocial Risk Score for Assessing Future Disease Burden" paper
